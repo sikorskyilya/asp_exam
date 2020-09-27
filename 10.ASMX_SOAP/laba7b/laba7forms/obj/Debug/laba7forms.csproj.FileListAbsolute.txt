@@ -1,0 +1,10 @@
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\bin\Debug\laba7forms.exe.config
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\bin\Debug\laba7forms.exe
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\bin\Debug\laba7forms.pdb
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\obj\Debug\laba7forms.csprojAssemblyReference.cache
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\obj\Debug\laba7forms.Form1.resources
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\obj\Debug\laba7forms.Properties.Resources.resources
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\obj\Debug\laba7forms.csproj.GenerateResource.cache
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\obj\Debug\laba7forms.exe
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\obj\Debug\laba7forms.pdb
+D:\Univer\sem6\ASP.NET\лабораторные\laba7b\laba7forms\obj\Debug\laba7forms.csproj.CoreCompileInputs.cache

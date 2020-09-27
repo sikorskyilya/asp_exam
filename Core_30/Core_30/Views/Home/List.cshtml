@@ -1,0 +1,19 @@
+﻿@{
+    Layout = null;
+    List<string> City = ViewBag.City;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+</head>
+<body>
+    <h1>Применение частичных представлений</h1>
+    @foreach (string s in City)
+    {
+        @Html.Partial("Partial_2", s)
+    }
+</body>
+</html>

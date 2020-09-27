@@ -1,0 +1,13 @@
+D:\PISEKZ\EKZ\4.WS\WS\bin\Debug\WS.exe.config
+D:\PISEKZ\EKZ\4.WS\WS\bin\Debug\WS.exe
+D:\PISEKZ\EKZ\4.WS\WS\bin\Debug\WS.pdb
+D:\PISEKZ\EKZ\4.WS\WS\obj\Debug\WS.csprojAssemblyReference.cache
+D:\PISEKZ\EKZ\4.WS\WS\obj\Debug\WS.csproj.CoreCompileInputs.cache
+D:\PISEKZ\EKZ\4.WS\WS\obj\Debug\WS.exe
+D:\PISEKZ\EKZ\4.WS\WS\obj\Debug\WS.pdb
+D:\studing_6sem\NEW\4.WS\WS\bin\Debug\WS.exe.config
+D:\studing_6sem\NEW\4.WS\WS\bin\Debug\WS.exe
+D:\studing_6sem\NEW\4.WS\WS\bin\Debug\WS.pdb
+D:\studing_6sem\NEW\4.WS\WS\obj\Debug\WS.csprojAssemblyReference.cache
+D:\studing_6sem\NEW\4.WS\WS\obj\Debug\WS.exe
+D:\studing_6sem\NEW\4.WS\WS\obj\Debug\WS.pdb

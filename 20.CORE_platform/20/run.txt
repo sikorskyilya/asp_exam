@@ -1,0 +1,2 @@
+1. Открыть CMD
+2. dotnet run

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba7b", "laba7b\laba7b.csproj", "{456521DA-CD21-432E-850C-575F2CDB3CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba7forms", "laba7forms\laba7forms.csproj", "{B56C4114-4B7D-42CB-B2FB-BE91B218E351}"
+	ProjectSection(ProjectDependencies) = postProject
+		{456521DA-CD21-432E-850C-575F2CDB3CF8} = {456521DA-CD21-432E-850C-575F2CDB3CF8}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456521DA-CD21-432E-850C-575F2CDB3CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456521DA-CD21-432E-850C-575F2CDB3CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456521DA-CD21-432E-850C-575F2CDB3CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456521DA-CD21-432E-850C-575F2CDB3CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56C4114-4B7D-42CB-B2FB-BE91B218E351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56C4114-4B7D-42CB-B2FB-BE91B218E351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56C4114-4B7D-42CB-B2FB-BE91B218E351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56C4114-4B7D-42CB-B2FB-BE91B218E351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5ECD62C-E823-48DA-8395-FC5241E04226}
+	EndGlobalSection
+EndGlobal

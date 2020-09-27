@@ -1,0 +1,18 @@
+﻿@using WebApplication1.Helpers
+@{
+    Layout = null;
+    ViewData["Title"] = "HelperMethod1";
+}
+@{
+    string[] cities = new string[] { "Лондон", "Париж", "Берлин" };
+    string[] countries = new string[] { "Великобритания", "Франция", "Германия" };
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Helpers</title>
+</head>
+<body>
+    @ListHelper.CreateList(Html, countries);
+</body>
+</html>

@@ -1,0 +1,14 @@
+D:\PISEKZ\EKZ\20.CORE_platform\20\bin\Debug\netcoreapp2.1\20.deps.json
+D:\PISEKZ\EKZ\20.CORE_platform\20\bin\Debug\netcoreapp2.1\20.runtimeconfig.json
+D:\PISEKZ\EKZ\20.CORE_platform\20\bin\Debug\netcoreapp2.1\20.runtimeconfig.dev.json
+D:\PISEKZ\EKZ\20.CORE_platform\20\bin\Debug\netcoreapp2.1\20.dll
+D:\PISEKZ\EKZ\20.CORE_platform\20\bin\Debug\netcoreapp2.1\20.pdb
+D:\PISEKZ\EKZ\20.CORE_platform\20\obj\Debug\netcoreapp2.1\20.csprojAssemblyReference.cache
+D:\PISEKZ\EKZ\20.CORE_platform\20\obj\Debug\netcoreapp2.1\20.csproj.CoreCompileInputs.cache
+D:\PISEKZ\EKZ\20.CORE_platform\20\obj\Debug\netcoreapp2.1\20.RazorAssemblyInfo.cache
+D:\PISEKZ\EKZ\20.CORE_platform\20\obj\Debug\netcoreapp2.1\20.RazorAssemblyInfo.cs
+D:\PISEKZ\EKZ\20.CORE_platform\20\obj\Debug\netcoreapp2.1\20.AssemblyInfoInputs.cache
+D:\PISEKZ\EKZ\20.CORE_platform\20\obj\Debug\netcoreapp2.1\20.AssemblyInfo.cs
+D:\PISEKZ\EKZ\20.CORE_platform\20\obj\Debug\netcoreapp2.1\20.RazorTargetAssemblyInfo.cache
+D:\PISEKZ\EKZ\20.CORE_platform\20\obj\Debug\netcoreapp2.1\20.dll
+D:\PISEKZ\EKZ\20.CORE_platform\20\obj\Debug\netcoreapp2.1\20.pdb

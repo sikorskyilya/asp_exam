@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1 id="text"> </h1>
+    <script>
+        fetchExample();
+        function fetchExample() {
+            fetch("http://localhost:5020/hello")
+                .then(function (response) {
+                    if (response.status !== 200) {
+                        alert("Status Code: " + response.status);
+                        return;
+                    }
+                    response.text().then(function (data) {
+                        document.getElementById("text").textContent += data;
+                    });
+                })
+                .catch(function (err) {
+                    alert("Fetch Error :", err);
+                });
+        }
+    </script>
+</body>
+</html>

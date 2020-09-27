@@ -1,0 +1,19 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Применение частичных представлений</h1>
+    @Html.Partial("Partial_1", new Core_30.Controllers.HomeController.A { s = "First", x = 5, y = 10 })
+
+    @Html.Partial("Partial_1", new Core_30.Controllers.HomeController.A { s = "Second", x = 15, y = 20 })
+
+    @Html.Partial("Partial_2", "Third")
+</body>
+</html>

@@ -1,0 +1,13 @@
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\bin\Debug\lab07b_wcf_console.exe.config
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\bin\Debug\lab07b_wcf_console.exe
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\bin\Debug\lab07b_wcf_console.pdb
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\bin\Debug\EntityFramework.dll
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\bin\Debug\EntityFramework.SqlServer.dll
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\bin\Debug\Newtonsoft.Json.dll
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\bin\Debug\EntityFramework.xml
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\bin\Debug\EntityFramework.SqlServer.xml
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\bin\Debug\Newtonsoft.Json.xml
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\obj\Debug\lab07b_wcf_console.csproj.CoreCompileInputs.cache
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\obj\Debug\lab07b_wcf_console.csproj.CopyComplete
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\obj\Debug\lab07b_wcf_console.exe
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07b_wcf_console\obj\Debug\lab07b_wcf_console.pdb

@@ -1,0 +1,24 @@
+﻿@using _16_MODEL_REPOS.Models
+
+@{
+    ViewBag.Title = "GetAll";
+    List<Phone> phones = ViewBag.GetAll;
+}
+
+<h2>GetAll</h2>
+<table class="table">
+    @foreach (Phone phone in phones)
+    {
+
+        <tr>
+            <td>@phone.Id</td>
+            <td>@phone.Name</td>
+            <td>@phone.Manufacturer</td>
+            <td>@phone.Price</td>
+
+        </tr>
+    }
+</table>
+
+
+

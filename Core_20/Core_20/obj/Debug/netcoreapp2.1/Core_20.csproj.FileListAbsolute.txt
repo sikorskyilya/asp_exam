@@ -1,0 +1,14 @@
+D:\ASP\Экзамен\Core_20\Core_20\bin\Debug\netcoreapp2.1\Core_20.deps.json
+D:\ASP\Экзамен\Core_20\Core_20\bin\Debug\netcoreapp2.1\Core_20.runtimeconfig.json
+D:\ASP\Экзамен\Core_20\Core_20\bin\Debug\netcoreapp2.1\Core_20.runtimeconfig.dev.json
+D:\ASP\Экзамен\Core_20\Core_20\bin\Debug\netcoreapp2.1\Core_20.dll
+D:\ASP\Экзамен\Core_20\Core_20\bin\Debug\netcoreapp2.1\Core_20.pdb
+D:\ASP\Экзамен\Core_20\Core_20\obj\Debug\netcoreapp2.1\Core_20.csprojAssemblyReference.cache
+D:\ASP\Экзамен\Core_20\Core_20\obj\Debug\netcoreapp2.1\Core_20.csproj.CoreCompileInputs.cache
+D:\ASP\Экзамен\Core_20\Core_20\obj\Debug\netcoreapp2.1\Core_20.RazorAssemblyInfo.cache
+D:\ASP\Экзамен\Core_20\Core_20\obj\Debug\netcoreapp2.1\Core_20.RazorAssemblyInfo.cs
+D:\ASP\Экзамен\Core_20\Core_20\obj\Debug\netcoreapp2.1\Core_20.AssemblyInfoInputs.cache
+D:\ASP\Экзамен\Core_20\Core_20\obj\Debug\netcoreapp2.1\Core_20.AssemblyInfo.cs
+D:\ASP\Экзамен\Core_20\Core_20\obj\Debug\netcoreapp2.1\Core_20.RazorTargetAssemblyInfo.cache
+D:\ASP\Экзамен\Core_20\Core_20\obj\Debug\netcoreapp2.1\Core_20.dll
+D:\ASP\Экзамен\Core_20\Core_20\obj\Debug\netcoreapp2.1\Core_20.pdb

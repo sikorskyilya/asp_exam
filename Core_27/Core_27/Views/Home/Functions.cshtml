@@ -1,0 +1,30 @@
+﻿@functions {
+    int sum (int x, int y)
+    {
+        return x + y;
+    }
+    int mul (int x, int y)
+    {
+        return x * y;
+    }
+}
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Functions</title>
+</head>
+<body>
+    <h1>Functions:</h1>
+    <p>
+        sum(4, 6) = @sum(4, 6)
+    </p>
+    <p>
+        mul(4, 6) = @mul(4, 6)
+    </p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>@ViewBag.Title</title>
+    </head>
+    <body>
+        <h1>Views/Home/Index.html</h1>
+        <h1>@ViewBag.Header</h1>
+        @foreach (String s in ViewBag.Countries)
+        {
+            <p>@s</p>
+        }
+    </body>
+</html>
+

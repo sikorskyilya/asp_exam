@@ -1,0 +1,9 @@
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07c_winforms\bin\Debug\lab07c_winforms.exe.config
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07c_winforms\bin\Debug\lab07c_winforms.exe
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07c_winforms\bin\Debug\lab07c_winforms.pdb
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07c_winforms\obj\Debug\lab07b_winforms.Form1.resources
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07c_winforms\obj\Debug\lab07c_winforms.Properties.Resources.resources
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07c_winforms\obj\Debug\lab07c_winforms.csproj.GenerateResource.cache
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07c_winforms\obj\Debug\lab07c_winforms.csproj.CoreCompileInputs.cache
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07c_winforms\obj\Debug\lab07c_winforms.exe
+D:\PISEKZ\EKZ\NEW\19.WCF\lab07c_winforms\obj\Debug\lab07c_winforms.pdb

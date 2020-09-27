@@ -1,0 +1,21 @@
+﻿@inherits Core_27.Controllers.HomeController.VDemo<string>
+@model string
+@{
+    this.date = this.date.AddYears(1);
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Inherits</title>
+</head>
+<body>
+    <p>
+        this.date.toShortDateString() = @this.date.ToShortDateString() <br />
+        this.description = @this.desription <br />
+        Model = @Model
+    </p>
+</body>
+</html>

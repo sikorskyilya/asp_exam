@@ -1,0 +1,10 @@
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\bin\lab_02b.dll.config
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\bin\lab_02b.dll
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\bin\lab_02b.pdb
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\obj\Debug\lab_02b.csprojAssemblyReference.cache
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\obj\Debug\lab_02b.csproj.CoreCompileInputs.cache
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\obj\Debug\lab_02b.csproj.CopyComplete
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\obj\Debug\lab_02b.dll
+D:\PISEKZ\EKZ\9.httpHandlers\lab_02b\obj\Debug\lab_02b.pdb

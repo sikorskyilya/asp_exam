@@ -1,0 +1,14 @@
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\bin\Debug\netcoreapp2.1\21.deps.json
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\bin\Debug\netcoreapp2.1\21.runtimeconfig.json
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\bin\Debug\netcoreapp2.1\21.runtimeconfig.dev.json
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\bin\Debug\netcoreapp2.1\21.dll
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\bin\Debug\netcoreapp2.1\21.pdb
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\obj\Debug\netcoreapp2.1\21.csprojAssemblyReference.cache
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\obj\Debug\netcoreapp2.1\21.csproj.CoreCompileInputs.cache
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\obj\Debug\netcoreapp2.1\21.RazorAssemblyInfo.cache
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\obj\Debug\netcoreapp2.1\21.RazorAssemblyInfo.cs
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\obj\Debug\netcoreapp2.1\21.AssemblyInfoInputs.cache
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\obj\Debug\netcoreapp2.1\21.AssemblyInfo.cs
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\obj\Debug\netcoreapp2.1\21.RazorTargetAssemblyInfo.cache
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\obj\Debug\netcoreapp2.1\21.dll
+D:\PISEKZ\EKZ\21.CORE_STATIC_HEADERS\21\obj\Debug\netcoreapp2.1\21.pdb

@@ -1,0 +1,17 @@
+﻿
+
+
+@using A14_VIEW_MODEL.Models 
+@model IndexViewModel
+@{
+    ViewBag.Title = "Phone";
+}
+
+<h2>Phone</h2>
+
+<table class="table">
+    @foreach (Phone p in Model.Phones)
+    {
+        <tr><td>@p.Name</td><td>@p.Manufacturer</td><td>@p.Price</td></tr>
+    }
+</table>

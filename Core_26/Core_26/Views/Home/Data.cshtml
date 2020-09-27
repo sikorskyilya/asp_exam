@@ -1,0 +1,43 @@
+﻿@using Core_26.Controllers
+@{
+    Layout = null;
+    List<string> City = (List<string>)ViewData["City"];
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <h1>@ViewBag.Title</h1>
+    <h2>@ViewBag.Data</h2>
+    <p>
+        @foreach (string s in City)
+        {
+            @s <br />
+        }
+    </p>
+
+    <p>
+        B.s = @(((HomeController.B)ViewData["B"]).s) <br />
+        B.x = @(((HomeController.B)ViewData["B"]).x) <br />
+        B.y = @(((HomeController.B)ViewData["B"]).y)
+    </p>
+
+    <h2>@ViewBag.Temp</h2>
+    <p>
+        TempData["s"] = @((string)TempData["s"]) <br />
+        TempData["z"] = @((int)TempData["z"])
+    </p>
+
+    <h2>ViewBag обертка над ViewData</h2>
+    <p>
+        @ViewData["Title"] - @ViewBag.Title <br />
+        @ViewData["Data"] - @ViewBag.Data <br />
+        @ViewData["Temp"] - @ViewBag.Temp
+    </p>
+
+</body>
+</html>

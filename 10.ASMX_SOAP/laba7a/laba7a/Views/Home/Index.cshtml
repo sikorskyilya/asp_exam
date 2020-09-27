@@ -1,0 +1,112 @@
+﻿@{
+    Layout = null;
+}
+
+    <body onload="Get()">
+        <div>
+            <h3>Add</h3>
+            <p>Surname: <input type="text" id="surname" name="surname" /></p>
+            <p>Number: <input type="number" id="number" name="number" min="1" max="99999999"></p>
+            <p><input type="submit" onclick="Add()"></p>
+        </div>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Surnames</th>
+                        <th>Telephone Numbers</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="list">
+                    <tr>
+                        <th>
+                            <button>Edit</button>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+
+    <script>
+        let Get = () => {
+                fetch('/api/WebApi', { method: 'GET' })
+                    .then(res => res.json()).then(res => {
+                        if (res) {
+                            let body = document.getElementById('list');
+                            let list = '';
+                            res.forEach(telephone => {
+                                list +=
+                                    `<tr>
+                                    <td>${telephone.id}</td>
+                                    <td><input type="text" id="${telephone.id}sn" value="${telephone.surname}"/></td>
+                                    <td><input type="text" id="${telephone.id}nb" value="${telephone.number}"/></td>
+                                    <td>
+                                        <button name="${telephone.id}_ed" onclick="Update(this.name)">Edit</button>&#160;
+                                        <button name="${telephone.id}_del" onclick="Del(this.name)">Delete</button></td>
+                                </tr>`;
+                            });
+                            body.innerHTML = list;
+                        }
+                    })
+                    .catch((err) => console.log(`Fetch ERROR by ${LINK}: ${err}`));
+        }
+       let Add = () => {
+            fetch('/api/WebApi/Post', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    surname: document.getElementById('surname').value,
+                    number: document.getElementById('number').value
+                })
+            })
+            .then(res => {
+                if (res) {
+                    window.location.replace("/");
+                }
+            })
+            .catch((err) => console.log(`Fetch ERROR by ${LINK}: ${err}`));
+        }
+        let Update = (id) => {
+            var splits = id.split('_', 2);
+            fetch('/api/WebApi/Put', {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    id: splits[0],
+                    surname: document.getElementById(splits[0]+'sn').value,
+                    number: document.getElementById(splits[0]+'nb').value
+                })
+            })
+            .then(res => {
+                if (res) {
+                    window.location.replace("/");
+                }
+            })
+            .catch((err) => console.log(`Fetch ERROR by ${LINK}: ${err}`));
+        }
+        let Del = (id) => {
+            var splits = id.split('_', 2);
+            fetch('/api/WebApi/Del', {
+                method: 'DELETE',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    id: splits[0]
+                })
+            })
+            .then(res => {
+                if (res) {
+                    window.location.replace("/");
+                }
+            })
+            .catch((err) => console.log(`Fetch ERROR by ${LINK}: ${err}`));
+        }
+    </script>

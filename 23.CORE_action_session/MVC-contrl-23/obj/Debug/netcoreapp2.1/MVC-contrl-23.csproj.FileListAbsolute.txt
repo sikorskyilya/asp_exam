@@ -1,0 +1,14 @@
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\bin\Debug\netcoreapp2.1\MVC-contrl-23.deps.json
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\bin\Debug\netcoreapp2.1\MVC-contrl-23.runtimeconfig.json
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\bin\Debug\netcoreapp2.1\MVC-contrl-23.runtimeconfig.dev.json
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\bin\Debug\netcoreapp2.1\MVC-contrl-23.dll
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\bin\Debug\netcoreapp2.1\MVC-contrl-23.pdb
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\obj\Debug\netcoreapp2.1\MVC-contrl-23.csprojAssemblyReference.cache
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\obj\Debug\netcoreapp2.1\MVC-contrl-23.csproj.CoreCompileInputs.cache
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\obj\Debug\netcoreapp2.1\MVC-contrl-23.RazorAssemblyInfo.cache
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\obj\Debug\netcoreapp2.1\MVC-contrl-23.RazorAssemblyInfo.cs
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\obj\Debug\netcoreapp2.1\MVC-contrl-23.AssemblyInfoInputs.cache
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\obj\Debug\netcoreapp2.1\MVC-contrl-23.AssemblyInfo.cs
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\obj\Debug\netcoreapp2.1\MVC-contrl-23.RazorTargetAssemblyInfo.cache
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\obj\Debug\netcoreapp2.1\MVC-contrl-23.dll
+D:\PISEKZ\EKZ\23.CORE_action_session\MVC-contrl-23\obj\Debug\netcoreapp2.1\MVC-contrl-23.pdb

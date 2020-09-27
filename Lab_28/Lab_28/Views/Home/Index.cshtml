@@ -1,0 +1,28 @@
+﻿@model Lab_28.Controllers.HomeController.CA01
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>TagHelpers:</h1>
+    <a asp-controller="Home" asp-action="About" asp-protocol="https">О сайте</a>
+    <a asp-controller="Home" asp-action="Person" asp-route-age="18" asp-route-name="tom">Person</a>
+    <a asp-controller="Home" asp-action="Person" asp-all-route-data='new Dictionary<string,string> { {"name", "andrey" }, { "age", "25" } }'>Data</a>
+
+    <form asp-controller="Home" asp-action="A01">
+
+        <p> <label asp-for="x"></label> <input name="x" type="number" asp-for="x" min="50" max="100" /> </p>
+        <p> <label asp-for="y"></label> <input name="y" type="number" asp-for="y" min="-50" max="50" /> </p>
+
+        <input type="submit" value="Press" />
+        <h4>@ViewBag.XError</h4>
+        <div asp-validation-summary="All"></div>
+    </form>
+</body>
+</html>

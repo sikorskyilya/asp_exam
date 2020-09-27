@@ -1,0 +1,30 @@
+﻿@using System.IO
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Using</title>
+</head>
+<body>
+    <h1>Using:</h1>
+    @try 
+    {
+        using (StreamReader stream = new StreamReader("Files/Text.txt"))
+        {
+            string line;
+            while ((line = stream.ReadLine()) != null)
+            {
+                @line <br />
+            }
+        }
+    }
+    catch (Exception)
+    {
+        <p>Ошибка ввода</p>
+    }
+</body>
+</html>

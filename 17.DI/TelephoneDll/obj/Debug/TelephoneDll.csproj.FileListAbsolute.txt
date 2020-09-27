@@ -1,0 +1,9 @@
+D:\PISEKZ\EKZ\17.DI\TelephoneDll\bin\Debug\TelephoneDll.dll
+D:\PISEKZ\EKZ\17.DI\TelephoneDll\bin\Debug\TelephoneDll.pdb
+D:\PISEKZ\EKZ\17.DI\TelephoneDll\bin\Debug\Newtonsoft.Json.dll
+D:\PISEKZ\EKZ\17.DI\TelephoneDll\bin\Debug\Newtonsoft.Json.xml
+D:\PISEKZ\EKZ\17.DI\TelephoneDll\obj\Debug\TelephoneDll.csprojAssemblyReference.cache
+D:\PISEKZ\EKZ\17.DI\TelephoneDll\obj\Debug\TelephoneDll.csproj.CoreCompileInputs.cache
+D:\PISEKZ\EKZ\17.DI\TelephoneDll\obj\Debug\TelephoneDll.csproj.CopyComplete
+D:\PISEKZ\EKZ\17.DI\TelephoneDll\obj\Debug\TelephoneDll.dll
+D:\PISEKZ\EKZ\17.DI\TelephoneDll\obj\Debug\TelephoneDll.pdb

@@ -1,0 +1,44 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Layout</title>
+</head>
+<body>
+    <h1>Компановка</h1>
+    <p>
+        Компановка - представление, применяемое для макетирования страниц.
+        Подключение компановки к представлению осуществляется с помощью
+        свойства Layout представления
+    </p>
+    <p>
+        Секция RenderSection("head") имеет имя head, по умолчанию секция
+        является обязательной. Если в конце не будет section head, то
+        произойдет исключение
+    </p>
+    @RenderSection("head")
+    <h2>---- после секции head ----</h2>
+    <h2>---- до секции main ----</h2>
+    @RenderSection("main")
+    <h2>---- после секции main ----</h2>
+    <p>
+        В RenderBody попадает разметка представления, которая находится
+        вне section {...} в странице. Секция не обязательная
+    </p>
+    <h2>---- до секции RenderBody ----</h2>
+    @RenderBody()
+    <h2>---- после секции RenderBody ----</h2>
+    <p>
+        Секция RenderSection("foot", false) не является обязательной
+        (второй параметр = false)
+    </p>
+    <h2>---- до секции foot ----</h2>
+    @RenderSection("foot", false)
+    <h2>---- после секции foot ----</h2>
+    <p>
+</body>
+</html>
